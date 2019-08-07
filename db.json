@@ -34,6 +34,16 @@
       "title": "Batman v Superman: Dawn of Justice - (2016)",
       "rating": 5,
       "id": 10
+    },
+    {
+      "title": "spooterman",
+      "rating": "4",
+      "id": 11
+    },
+    {
+      "title": "Spider-Man: Far from Home - (2019)",
+      "rating": 5,
+      "id": 12
     }
   ]
 }

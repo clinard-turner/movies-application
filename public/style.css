@@ -18,7 +18,7 @@ body {
 }
 @font-face {
     font-family: Boomville;
-    src: url("/src/Boomville_Personal_License/Boomville_OTF/Boomville.otf") format('opentype');
+    src: url("src/Boomville_Personal_License/Boomville_OTF/Boomville.otf") format('opentype');
 }
 
 h2 {
